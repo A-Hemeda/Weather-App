@@ -1,6 +1,6 @@
 # weather_app
 
-## Flutter application.
+## Flutter Application
 
 This project is a starting point for a Flutter application.
 
